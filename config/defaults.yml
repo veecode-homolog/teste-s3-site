@@ -1,0 +1,5 @@
+---
+route53_zone_domain: "teste.platform.vee.codes"
+cdn_domain: "teste-s3-site.teste.platform.vee.codes"
+id_zone: "Z05435392Y36CPOE0JVE4"
+bucket: "teste-s3-site"

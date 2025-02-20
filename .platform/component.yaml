@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "teste.platform.vee.codes"
+  annotations:
+    github.com/project-slug: veecode-homolog/teste-s3-site
+    backstage.io/techdocs-ref: dir:..
+spec:
+  type: devops
+  lifecycle: experimental
+  owner: "group:default/admin"
